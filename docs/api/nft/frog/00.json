@@ -2,5 +2,9 @@
   "description": "Frog Series No0",
   "image": "https://raw.githubusercontent.com/tomohirokanza/nftmockserver/main/images/frog00.gif",
   "name": "FROG00",
-  "attributes": []
+  "attributes": [
+    {
+      "type": "Thank you"
+    }
+  ]
 }
