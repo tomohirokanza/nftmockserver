@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "description": "Frog Series No0",
+            "image": "https://raw.githubusercontent.com/tomohirokanza/nftmockserver/main/images/frog00.gif",
+            "name": "FROG00",
+            "attributes": []
+        },
+        {
+            "description": "Frog Series No01",
+            "image": "https://raw.githubusercontent.com/tomohirokanza/nftmockserver/main/images/frog01.gif",
+            "name": "FROG01",
+            "attributes": []
+        },
+        {
+            "description": "Frog Series No02",
+            "image": "https://raw.githubusercontent.com/tomohirokanza/nftmockserver/main/images/frog02.gif",
+            "name": "FROG02",
+            "attributes": []
+        }
+    ],
+    "last_update": "2020-03-14T23:14:01.849130+09:00"
+}
