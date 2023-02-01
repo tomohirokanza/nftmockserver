@@ -1,5 +1,5 @@
 {
-  "description": "Frog Series No01",
+  "description": "Frog Series No.01",
   "image": "https://tomohirokanza.github.io/images/frog01.gif",
   "name": "FROG01",
   "attributes": [
